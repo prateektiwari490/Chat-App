@@ -1,3 +1,6 @@
+// This is a javaScript file inside funstion folder which is created by npm command in firebase function to send 
+// cloud messaging after every user send messages...
+
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
 
